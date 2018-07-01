@@ -31,3 +31,6 @@
 
 ### Web server configuration
 1. Configured flask to run as on Apache wsgi.
+
+### Third party integration
+1. Google OAuth2.0
